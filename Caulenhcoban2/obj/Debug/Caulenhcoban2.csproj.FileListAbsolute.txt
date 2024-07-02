@@ -1,0 +1,7 @@
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\bin\Debug\Caulenhcoban2.exe.config
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\bin\Debug\Caulenhcoban2.exe
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\bin\Debug\Caulenhcoban2.pdb
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\obj\Debug\Caulenhcoban2.csproj.AssemblyReference.cache
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\obj\Debug\Caulenhcoban2.csproj.CoreCompileInputs.cache
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\obj\Debug\Caulenhcoban2.exe
+D:\0.C#\b1.Câu_Lệnh_Cơ_Bản\Caulenhcoban2\obj\Debug\Caulenhcoban2.pdb
